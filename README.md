@@ -171,7 +171,7 @@ Add screenshot here.
 - Improved prediction accuracy
 - Multi-language support
 
-<!-- --- -->
+
 
 <!-- ## 🤝 Contributing -->
 
