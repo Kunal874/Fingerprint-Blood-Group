@@ -149,7 +149,7 @@ The dataset contains fingerprint images categorized according to blood groups:
 *(Update these values after training your model.)*
 
 ---
-
+<!-- 
 ## 📷 Screenshots
 
 ### Home Page
@@ -160,7 +160,7 @@ Add screenshot here.
 
 Add screenshot here.
 
----
+--- -->
 
 ## 🔮 Future Improvements
 
@@ -171,11 +171,11 @@ Add screenshot here.
 - Improved prediction accuracy
 - Multi-language support
 
----
+<!-- --- -->
 
-## 🤝 Contributing
+<!-- ## 🤝 Contributing -->
 
-Contributions are welcome!
+<!-- Contributions are welcome!
 
 1. Fork the repository
 2. Create a feature branch
@@ -185,8 +185,8 @@ git checkout -b feature-name
 ```
 
 3. Commit your changes
-
-```bash
+<!--  -->
+<!-- ```bash
 git commit -m "Added new feature"
 ```
 
@@ -194,8 +194,8 @@ git commit -m "Added new feature"
 
 ```bash
 git push origin feature-name
-```
-
+``` -->
+<!-- 
 5. Open a Pull Request
 
 ---
@@ -204,7 +204,7 @@ git push origin feature-name
 
 This project is licensed under the MIT License.
 
----
+--- --> -->
 
 ## 👨‍💻 Author
 
