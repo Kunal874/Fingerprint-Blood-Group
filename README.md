@@ -137,7 +137,7 @@ The dataset contains fingerprint images categorized according to blood groups:
 
 ---
 
-## 📈 Model Performance
+<!-- ## 📈 Model Performance
 
 | Metric | Value |
 |---------|-------|
@@ -146,7 +146,7 @@ The dataset contains fingerprint images categorized according to blood groups:
 | Recall | XX% |
 | F1 Score | XX% |
 
-*(Update these values after training your model.)*
+*(Update these values after training your model.)* -->
 
 ---
 <!-- 
